@@ -1,0 +1,2 @@
+# ReplAuthenticator
+Repl Auth -> Cookie
